@@ -6,4 +6,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sothx&count_private=true)
 
-![github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sothx&count_private=true)
+![github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sothx&layout=compact&langs_count=8&count_private=true)
