@@ -12,6 +12,6 @@
 - 👀 I’m interested in JavaScript and Node.js.  
 - 🌱 I’m currently learning electron and react native.  
 - 📫 Reach me i@sothx.com.  
-- My blog is [泛泛的个人博客](https://sothx.com/).
+- My blog is [https://sothx.com/](https://sothx.com/).
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sothx)
