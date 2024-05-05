@@ -4,6 +4,6 @@
 - 📫 可以通过邮件联系我 i@sothx.com.  
 - 这里是我的博客 [泛泛的个人博客](https://sothx.com/).
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sothx)
+![github stats](https://github-readme-stats.vercel.app/api?username=sothx&count_private=true)
 
-![github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sothx&layout=compact&langs_count=8)
+![github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sothx&layout=compact&langs_count=8&count_private=true)
